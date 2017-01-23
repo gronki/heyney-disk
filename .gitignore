@@ -1,0 +1,7 @@
+plt
+*.pyc
+*.col
+*.dat
+*.txt
+*.tgz
+*.npy
